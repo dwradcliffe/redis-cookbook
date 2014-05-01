@@ -1,3 +1,4 @@
+name             'redis'
 maintainer       "Riot Games"
 maintainer_email "jwinsor@riotgames.com"
 license          "Apache 2.0"
